@@ -1,0 +1,25 @@
+.color{
+    color: orange;
+}
+section{
+    display: flex;
+}
+.half img {
+     width: 80%;
+}
+.half{
+    width: 50%;
+    padding-left: 5%;
+}
+.button{
+    background-image: linear-gradient(orange,tomato);
+    text-decoration: none;
+    padding: 8px;
+    border-radius: 4px;
+    color: white;
+    font-weight: 700;
+}
+.banner{
+    background-image: url(./developer-portfolio-main/images/header_bg.png);
+    background-repeat: no-repeat;
+}
